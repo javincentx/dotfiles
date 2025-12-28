@@ -3,8 +3,20 @@
         {
             "Name": "main",
             "Source": "https://github.com/ScoopInstaller/Main",
-            "Updated": "2025-12-28T08:47:40+08:00",
+            "Updated": "2025-12-29T00:30:50+08:00",
             "Manifests": 1412
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2025-12-29T00:29:52+08:00",
+            "Manifests": 2241
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2025-12-15T17:39:10+08:00",
+            "Manifests": 367
         },
         {
             "Name": "java",
@@ -16,114 +28,170 @@
     "apps": [
         {
             "Source": "main",
+            "Version": "25.01",
             "Updated": "2025-12-21T10:32:23.6426944+08:00",
             "Info": "",
-            "Version": "25.01",
             "Name": "7zip"
         },
         {
             "Source": "main",
+            "Version": "0.26.1",
             "Updated": "2025-12-23T00:22:12.4942709+08:00",
             "Info": "",
-            "Version": "0.26.1",
             "Name": "bat"
         },
         {
             "Source": "main",
+            "Version": "1.0.5",
             "Updated": "2025-12-23T01:21:59.0987489+08:00",
             "Info": "",
-            "Version": "1.0.5",
             "Name": "btop"
         },
         {
             "Source": "main",
+            "Version": "0.23.4",
             "Updated": "2025-12-23T00:21:51.491806+08:00",
             "Info": "",
-            "Version": "0.23.4",
             "Name": "eza"
         },
         {
             "Source": "main",
+            "Version": "10.3.0",
             "Updated": "2025-12-23T00:22:36.9372431+08:00",
             "Info": "",
-            "Version": "10.3.0",
             "Name": "fd"
         },
         {
             "Source": "main",
+            "Version": "0.67.0",
             "Updated": "2025-12-23T00:38:25.4572509+08:00",
             "Info": "",
-            "Version": "0.67.0",
             "Name": "fzf"
         },
         {
             "Source": "main",
-            "Updated": "2025-12-21T10:32:34.3748105+08:00",
+            "Version": "2.83.2",
+            "Updated": "2025-12-28T22:21:51.8414431+08:00",
             "Info": "",
-            "Version": "2.52.0",
-            "Name": "git"
+            "Name": "gh"
         },
         {
             "Source": "main",
+            "Version": "2.52.0",
+            "Updated": "2025-12-21T10:32:34.3748105+08:00",
+            "Info": "",
+            "Name": "git"
+        },
+        {
+            "Source": "extras",
+            "Version": "3.9.1",
+            "Updated": "2025-12-28T23:04:37.9076868+08:00",
+            "Info": "",
+            "Name": "glazewm"
+        },
+        {
+            "Source": "main",
+            "Version": "9.2.1",
             "Updated": "2025-12-27T11:20:01.5420964+08:00",
             "Info": "",
-            "Version": "9.2.1",
             "Name": "gradle"
         },
         {
             "Source": "main",
+            "Version": "2.66.1",
+            "Updated": "2025-12-28T23:05:41.5725623+08:00",
+            "Info": "",
+            "Name": "innounp"
+        },
+        {
+            "Source": "nerd-fonts",
+            "Version": "3.4.0",
+            "Updated": "2025-12-29T01:13:17.779512+08:00",
+            "Info": "",
+            "Name": "JetBrainsMono-NF"
+        },
+        {
+            "Source": "extras",
+            "Version": "2.2.1.0",
+            "Updated": "2025-12-28T23:06:01.9733161+08:00",
+            "Info": "",
+            "Name": "lively"
+        },
+        {
+            "Source": "main",
+            "Version": "3.9.12",
             "Updated": "2025-12-27T11:13:17.0224114+08:00",
             "Info": "",
-            "Version": "3.9.12",
             "Name": "maven"
         },
         {
             "Source": "main",
+            "Version": "28.4.0",
             "Updated": "2025-12-23T00:03:14.3603172+08:00",
             "Info": "",
-            "Version": "28.4.0",
             "Name": "oh-my-posh"
         },
         {
             "Source": "java",
+            "Version": "21.0.2-13",
             "Updated": "2025-12-27T11:09:01.8686505+08:00",
             "Info": "",
-            "Version": "21.0.2-13",
             "Name": "openjdk21"
         },
         {
             "Source": "main",
+            "Version": "7.5.4",
             "Updated": "2025-12-23T00:02:02.6542301+08:00",
             "Info": "",
-            "Version": "7.5.4",
             "Name": "pwsh"
         },
         {
             "Source": "main",
+            "Version": "15.1.0",
             "Updated": "2025-12-23T00:23:12.6673466+08:00",
             "Info": "",
-            "Version": "15.1.0",
             "Name": "ripgrep"
         },
         {
             "Source": "main",
+            "Version": "1.28.2",
             "Updated": "2025-12-23T01:21:08.1976324+08:00",
             "Info": "",
-            "Version": "1.28.2",
             "Name": "rustup"
         },
         {
             "Source": "main",
+            "Version": "2.1.0",
             "Updated": "2025-12-21T10:48:46.4909651+08:00",
             "Info": "",
-            "Version": "2.1.0",
             "Name": "scoop-search"
         },
         {
+            "Source": "extras",
+            "Version": "2025.1",
+            "Updated": "2025-12-28T23:13:35.8999318+08:00",
+            "Info": "",
+            "Name": "translucenttb"
+        },
+        {
+            "Source": "extras",
+            "Version": "1.8.6",
+            "Updated": "2025-12-28T23:05:05.3993938+08:00",
+            "Info": "",
+            "Name": "yasb"
+        },
+        {
+            "Source": "extras",
+            "Version": "3.1.1",
+            "Updated": "2025-12-28T23:32:00.4515289+08:00",
+            "Info": "",
+            "Name": "zebar"
+        },
+        {
             "Source": "main",
+            "Version": "0.9.8",
             "Updated": "2025-12-23T00:23:31.8837025+08:00",
             "Info": "",
-            "Version": "0.9.8",
             "Name": "zoxide"
         }
     ]
