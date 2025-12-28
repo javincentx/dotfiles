@@ -1,0 +1,130 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2025-12-28T08:47:40+08:00",
+            "Manifests": 1412
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": "2025-12-05T04:25:04+08:00",
+            "Manifests": 324
+        }
+    ],
+    "apps": [
+        {
+            "Source": "main",
+            "Updated": "2025-12-21T10:32:23.6426944+08:00",
+            "Info": "",
+            "Version": "25.01",
+            "Name": "7zip"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:22:12.4942709+08:00",
+            "Info": "",
+            "Version": "0.26.1",
+            "Name": "bat"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T01:21:59.0987489+08:00",
+            "Info": "",
+            "Version": "1.0.5",
+            "Name": "btop"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:21:51.491806+08:00",
+            "Info": "",
+            "Version": "0.23.4",
+            "Name": "eza"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:22:36.9372431+08:00",
+            "Info": "",
+            "Version": "10.3.0",
+            "Name": "fd"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:38:25.4572509+08:00",
+            "Info": "",
+            "Version": "0.67.0",
+            "Name": "fzf"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-21T10:32:34.3748105+08:00",
+            "Info": "",
+            "Version": "2.52.0",
+            "Name": "git"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-27T11:20:01.5420964+08:00",
+            "Info": "",
+            "Version": "9.2.1",
+            "Name": "gradle"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-27T11:13:17.0224114+08:00",
+            "Info": "",
+            "Version": "3.9.12",
+            "Name": "maven"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:03:14.3603172+08:00",
+            "Info": "",
+            "Version": "28.4.0",
+            "Name": "oh-my-posh"
+        },
+        {
+            "Source": "java",
+            "Updated": "2025-12-27T11:09:01.8686505+08:00",
+            "Info": "",
+            "Version": "21.0.2-13",
+            "Name": "openjdk21"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:02:02.6542301+08:00",
+            "Info": "",
+            "Version": "7.5.4",
+            "Name": "pwsh"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:23:12.6673466+08:00",
+            "Info": "",
+            "Version": "15.1.0",
+            "Name": "ripgrep"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T01:21:08.1976324+08:00",
+            "Info": "",
+            "Version": "1.28.2",
+            "Name": "rustup"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-21T10:48:46.4909651+08:00",
+            "Info": "",
+            "Version": "2.1.0",
+            "Name": "scoop-search"
+        },
+        {
+            "Source": "main",
+            "Updated": "2025-12-23T00:23:31.8837025+08:00",
+            "Info": "",
+            "Version": "0.9.8",
+            "Name": "zoxide"
+        }
+    ]
+}
